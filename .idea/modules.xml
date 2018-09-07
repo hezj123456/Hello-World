@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hello-World.iml" filepath="$PROJECT_DIR$/Hello-World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-book-ch8/advicewithparameters/advicewithparameters.iml" filepath="$PROJECT_DIR$/../spring-book-ch8/advicewithparameters/advicewithparameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-book-ch8/annotations/annotations.iml" filepath="$PROJECT_DIR$/../spring-book-ch8/annotations/annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-book-ch8/annotationswithexception/annotationswithexception.iml" filepath="$PROJECT_DIR$/../spring-book-ch8/annotationswithexception/annotationswithexception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-book-ch8/declareparents/declareparents.iml" filepath="$PROJECT_DIR$/../spring-book-ch8/declareparents/declareparents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-book-ch8/executionorder/executionorder.iml" filepath="$PROJECT_DIR$/../spring-book-ch8/executionorder/executionorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-book-ch8/executiontimelogging/executiontimelogging.iml" filepath="$PROJECT_DIR$/../spring-book-ch8/executiontimelogging/executiontimelogging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-book-ch8/executiontimeloggingannotationconfig/executiontimeloggingannotationconfig.iml" filepath="$PROJECT_DIR$/../spring-book-ch8/executiontimeloggingannotationconfig/executiontimeloggingannotationconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-book-ch8/executiontimeloggingaspectj/executiontimeloggingaspectj.iml" filepath="$PROJECT_DIR$/../spring-book-ch8/executiontimeloggingaspectj/executiontimeloggingaspectj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-book-ch8/executiontimeloggingaspectjcglib/executiontimeloggingaspectjcglib.iml" filepath="$PROJECT_DIR$/../spring-book-ch8/executiontimeloggingaspectjcglib/executiontimeloggingaspectjcglib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-book-ch8/executiontimeloggingthrowsadvice/executiontimeloggingthrowsadvice.iml" filepath="$PROJECT_DIR$/../spring-book-ch8/executiontimeloggingthrowsadvice/executiontimeloggingthrowsadvice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-book-ch8/executiontimeloggingwithafterfinally/executiontimeloggingwithafterfinally.iml" filepath="$PROJECT_DIR$/../spring-book-ch8/executiontimeloggingwithafterfinally/executiontimeloggingwithafterfinally.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-book-ch8/executiontimeloggingwitharound/executiontimeloggingwitharound.iml" filepath="$PROJECT_DIR$/../spring-book-ch8/executiontimeloggingwitharound/executiontimeloggingwitharound.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-book-ch8/pointcutsextreme/pointcutsextreme.iml" filepath="$PROJECT_DIR$/../spring-book-ch8/pointcutsextreme/pointcutsextreme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spring-book-ch8/spring-book-ch8.iml" filepath="$PROJECT_DIR$/../spring-book-ch8/spring-book-ch8.iml" />
+    </modules>
+  </component>
+</project>

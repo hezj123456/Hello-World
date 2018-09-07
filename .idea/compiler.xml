@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="advicewithparameters" />
+        <module name="annotations" />
+        <module name="annotationswithexception" />
+        <module name="declareparents" />
+        <module name="executionorder" />
+        <module name="executiontimelogging" />
+        <module name="executiontimeloggingannotationconfig" />
+        <module name="executiontimeloggingaspectj" />
+        <module name="executiontimeloggingaspectjcglib" />
+        <module name="executiontimeloggingthrowsadvice" />
+        <module name="executiontimeloggingwithafterfinally" />
+        <module name="executiontimeloggingwitharound" />
+        <module name="pointcutsextreme" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="advicewithparameters" target="1.5" />
+      <module name="annotations" target="1.5" />
+      <module name="annotationswithexception" target="1.5" />
+      <module name="declareparents" target="1.5" />
+      <module name="executionorder" target="1.5" />
+      <module name="executiontimelogging" target="1.5" />
+      <module name="executiontimeloggingannotationconfig" target="1.5" />
+      <module name="executiontimeloggingaspectj" target="1.5" />
+      <module name="executiontimeloggingaspectjcglib" target="1.5" />
+      <module name="executiontimeloggingthrowsadvice" target="1.5" />
+      <module name="executiontimeloggingwithafterfinally" target="1.5" />
+      <module name="executiontimeloggingwitharound" target="1.5" />
+      <module name="pointcutsextreme" target="1.5" />
+      <module name="spring-book-ch8" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
